@@ -26,7 +26,7 @@ function playSound(sound) {
 
         setTimeout(()=>{
             teclaColor.classList.remove('active');
-        }, 300);
+        }, 500);
     }
 
 
